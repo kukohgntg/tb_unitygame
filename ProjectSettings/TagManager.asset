@@ -41,6 +41,18 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Water
+  - name: Acid
+    uniqueID: 3924491281
+    locked: 0
+  - name: Steel
+    uniqueID: 2627741195
+    locked: 0
+  - name: Ground
     uniqueID: 2561299199
+    locked: 0
+  - name: Water
+    uniqueID: 2428667191
+    locked: 0
+  - name: Bone
+    uniqueID: 231643233
     locked: 0
